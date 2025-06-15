@@ -6,4 +6,4 @@
 
 📖 On a journey to learn machine learning beyond POST requests 
 
-❤️ Always happy to contribute to cool projects, reach out 
+❤️ Always happy to contribute to cool projects, reach out!

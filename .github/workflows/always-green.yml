@@ -15,7 +15,7 @@ jobs:
 
       - name: Run a one-line script
         run: |
-          git config user.name typesarecool
+          git config user.name arobopsychologist
           git config user.email edwardjlsh@pm.me
           git commit --allow-empty -m "Always Green!"
           git push
